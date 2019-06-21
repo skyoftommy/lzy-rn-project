@@ -3,7 +3,7 @@
 --------------
 #### 环境依赖
 * [node v10.15.3+](http://nodejs.cn/)
-* [expo-cli v2.20.2+](https://expo.io/)
+* [expo-cli v2.20.2+](https://expo.io/learn)
 ```
   npm install expo-cli --global
 ```
